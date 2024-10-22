@@ -1,0 +1,50 @@
+EXP6: Scheduling and tracking of the project(gantt project)
+Phases and Milestones Breakdown for Blog Platform Project
+
+Phase 1: User Management
+Tasks:
+Design login and sign-up UI (5 days).
+Set up user authentication (10 days).
+Implement user profile management (7 days).
+Enable password recovery (5 days).
+Milestone: "User Management Complete" (Date: Oct 31, 2024).
+
+Phase 2: Blog Creation and Editor
+Tasks:
+Design blog editor UI (7 days).
+Develop WYSIWYG editor (15 days).
+Implement save draft functionality (5 days).
+Add auto-save and spell-check features (7 days).
+Milestone: "Blog Editor Ready" (Date: Nov 15, 2024).
+
+Phase 3: Comments System
+Tasks:
+Design comment section layout (5 days).
+Develop comment submission and storage (10 days).
+Implement comment moderation tools (7 days).
+Add upvoting and reporting system (5 days).
+Milestone: "Comments System Complete" (Date: Nov 30, 2024).
+
+Phase 4: Analytics Dashboard
+Tasks:
+Set up blog post views tracking (8 days).
+Implement traffic analysis charts (7 days).
+Add user engagement metrics (comments, likes) (5 days).
+Create admin view for dashboard (10 days).
+Milestone: "Analytics Dashboard Complete" (Date: Dec 15, 2024).
+
+Phase 5: Performance Optimization
+Tasks:
+Optimize database queries (7 days).
+Implement caching for blog posts (5 days).
+Minimize front-end load times (7 days).
+Conduct load testing (5 days).
+Milestone: "Performance Optimization Complete" (Date: Dec 30, 2024).
+
+Phase 6: Deployment and Testing
+Tasks:
+Set up production environment (5 days).
+Perform security testing (7 days).
+Conduct final QA and bug fixing (10 days).
+Deploy to production server (3 days).
+Milestone: "Platform Ready for Launch" (Date: Jan 10, 2025).
